@@ -1,0 +1,170 @@
+﻿[
+ {
+   "FIELD1": 0,
+   "name": "Howard",
+   "parking": "yes",
+   "wheelchair": "yes",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1090"
+ },
+ {
+   "FIELD1": 1,
+   "name": "Jarvis",
+   "parking": "no",
+   "wheelchair": "no",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1092"
+ },
+ {
+   "FIELD1": 2,
+   "name": "Morse",
+   "parking": "no",
+   "wheelchair": "no",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1097"
+ },
+ {
+   "FIELD1": 3,
+   "name": "Loyola",
+   "parking": "no",
+   "wheelchair": "yes",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1095"
+ },
+ {
+   "FIELD1": 4,
+   "name": "Granville",
+   "parking": "no",
+   "wheelchair": "yes",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1088"
+ },
+ {
+   "FIELD1": 5,
+   "name": "Thorndale",
+   "parking": "no",
+   "wheelchair": "no",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1102"
+ },
+ {
+   "FIELD1": 6,
+   "name": "Bryn Mawr",
+   "parking": "no",
+   "wheelchair": "no",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1081"
+ },
+ {
+   "FIELD1": 7,
+   "name": "Berwyn",
+   "parking": "no",
+   "wheelchair": "no",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1080"
+ },
+ {
+   "FIELD1": 8,
+   "name": "Argyle",
+   "parking": "no",
+   "wheelchair": "no",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1078"
+ },
+ {
+   "FIELD1": 9,
+   "name": "Lawrence",
+   "parking": "no",
+   "wheelchair": "no",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1094"
+ },
+ {
+   "FIELD1": 10,
+   "name": "Wilson",
+   "parking": "no",
+   "wheelchair": "yes",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1103"
+ },
+ {
+   "FIELD1": 11,
+   "name": "Sheridan",
+   "parking": "no",
+   "wheelchair": "no",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1100"
+ },
+ {
+   "FIELD1": 12,
+   "name": "Addison",
+   "parking": "no",
+   "wheelchair": "yes",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1077"
+ },
+ {
+   "FIELD1": 13,
+   "name": "Belmont",
+   "parking": "no",
+   "wheelchair": "yes",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1079"
+ },
+ {
+   "FIELD1": 14,
+   "name": "Fullerton",
+   "parking": "no",
+   "wheelchair": "yes",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1085"
+ },
+ {
+   "FIELD1": 15,
+   "name": "North/Clybourn",
+   "parking": "no",
+   "wheelchair": "no",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1098"
+ },
+ {
+   "FIELD1": 16,
+   "name": "Clark/Division",
+   "parking": "no",
+   "wheelchair": "yes",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1084"
+ },
+ {
+   "FIELD1": 17,
+   "name": "Chicago",
+   "parking": "no",
+   "wheelchair": "yes",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1083"
+ },
+ {
+   "FIELD1": 18,
+   "name": "Grand",
+   "parking": "no",
+   "wheelchair": "yes",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1087"
+ },
+ {
+   "FIELD1": 19,
+   "name": "Lake",
+   "parking": "no",
+   "wheelchair": "yes",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1093"
+ },
+ {
+   "FIELD1": 20,
+   "name": "Monroe",
+   "parking": "no",
+   "wheelchair": "no",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1096"
+ },
+ {
+   "FIELD1": 21,
+   "name": "Jackson",
+   "parking": "no",
+   "wheelchair": "yes",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1091"
+ },
+ {
+   "FIELD1": 22,
+   "name": "Harrison",
+   "parking": "no",
+   "wheelchair": "no",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1089"
+ },
+ {
+   "FIELD1": 23,
+   "name": "Roosevelt",
+   "parking": "no",
+   "wheelchair": "yes",
+   "url": "http://www.transitchicago.com/asset.aspx?AssetId=1099"
+ }
+]
